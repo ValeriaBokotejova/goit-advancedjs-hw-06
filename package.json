@@ -1,0 +1,26 @@
+{
+  "name": "typescript-homework-module-2",
+  "version": "1.0.0",
+  "description": "TypeScript",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.5"
+  },
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriaBokotejova/goit-advancedjs-hw-06.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ValeriaBokotejova/goit-advancedjs-hw-06/issues"
+  },
+  "homepage": "https://github.com/ValeriaBokotejova/goit-advancedjs-hw-06#readme"
+}
